@@ -1,3 +1,2 @@
-This is an Operating System that I'm developing for a Youtube Tutorial Series.
-Currently there is a 64 - bit GDT, PAE identity paging, some linker scripts, 
-some batch scripts and simple text print functions.
+Too many errors were in the first edition of Thru-OS, so I went and declared it as beta.
+Forked from Poncho's "YouTubeOS"
